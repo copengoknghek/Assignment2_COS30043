@@ -34,7 +34,7 @@ export default {
 }
 
 .job-overview h2 {
-  color: #2c3e50;
+  color: #502c3d;
   margin-bottom: 20px;
 }
 

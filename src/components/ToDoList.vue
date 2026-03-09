@@ -111,7 +111,7 @@ export default {
 }
 
 .todo-list-container h2 {
-  color: #2c3e50;
+  color: #502c48;
   margin-bottom: 30px;
 }
 
@@ -120,7 +120,7 @@ export default {
 }
 
 .task-item {
-  border-left: 4px solid #007bff;
+  border-left: 4px solid #ff0080;
 }
 
 .task-text {

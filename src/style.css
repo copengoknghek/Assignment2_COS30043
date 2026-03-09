@@ -13,3 +13,52 @@ body {
   width: 100%;
   min-height: 100vh;
 }
+
+/* Pink Theme Button Styles */
+.btn-primary {
+  background-color: #ff9ec1 !important;
+  border-color: #ff9ec1 !important;
+  color: black !important;
+}
+
+.btn-primary:hover {
+  background-color: #ff7bad !important;
+  border-color: #ff7bad !important;
+  color: black !important;
+}
+
+.btn-secondary {
+  background-color: #ffb3d1 !important;
+  border-color: #ffb3d1 !important;
+  color: black !important;
+}
+
+.btn-secondary:hover {
+  background-color: #ff9ec1 !important;
+  border-color: #ff9ec1 !important;
+  color: black !important;
+}
+
+.btn-warning {
+  background-color: #ffc4dd !important;
+  border-color: #ffc4dd !important;
+  color: black !important;
+}
+
+.btn-warning:hover {
+  background-color: #ffb3d1 !important;
+  border-color: #ffb3d1 !important;
+  color: black !important;
+}
+
+.btn-danger {
+  background-color: #ff6b9d !important;
+  border-color: #ff6b9d !important;
+  color: black !important;
+}
+
+.btn-danger:hover {
+  background-color: #ff5088 !important;
+  border-color: #ff5088 !important;
+  color: black !important;
+}

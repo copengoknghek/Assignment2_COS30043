@@ -35,7 +35,7 @@ export default {
 }
 
 .job-list h3 {
-  color: #2c3e50;
+  color: #502c40;
   margin-bottom: 20px;
   text-align: center;
 }
@@ -46,16 +46,16 @@ export default {
 }
 
 .list-group-item a {
-  color: #007bff;
+  color: #ff23a3;
 }
 
 .list-group-item a:hover {
-  color: #0056b3;
+  color: #b3005c;
   text-decoration: underline !important;
 }
 
 .router-link-active {
   font-weight: bold;
-  color: #0056b3 !important;
+  color: #b3006b !important;
 }
 </style>

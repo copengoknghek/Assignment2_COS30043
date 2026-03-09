@@ -54,7 +54,7 @@ export default {
 }
 
 .nav-link.router-link-active {
-  color: #007bff !important;
-  border-bottom: 2px solid #007bff;
+  color: #ff0090 !important;
+  border-bottom: 2px solid #ff008c;
 }
 </style>

@@ -511,7 +511,7 @@ export default {
 }
 
 .application-form-container h2 {
-  color: #2c3e50;
+  color: #000000;
   margin-bottom: 30px;
 }
 

@@ -1,8 +1,6 @@
 <template>
   <header class="header">
-    <div class="container">
-      <h1 class="text-white">Insight Hire</h1>
-    </div>
+    <img src="../assets/header-banner.png" alt="Welcome to Insight Hire" class="header-banner" />
   </header>
 </template>
 
@@ -14,10 +12,19 @@ export default {
 
 <style scoped>
 .header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  padding: 40px 0;
-  text-align: center;
+  padding: 0;
+  margin: 0;
+  width: 100%;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.header-banner {
+  width: 100%;
+  height: 200px;
+  display: block;
+  margin: 0;
+  object-fit: cover;
 }
 
 .header h1 {
