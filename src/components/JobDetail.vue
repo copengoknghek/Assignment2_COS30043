@@ -82,8 +82,10 @@ export default {
 }
 
 .detail-section h4 {
-  color: #34495e;
+  color: #000000;
   margin-bottom: 10px;
+  font-size: 1.15rem;
+  font-weight: 600;
 }
 
 .detail-section ul {

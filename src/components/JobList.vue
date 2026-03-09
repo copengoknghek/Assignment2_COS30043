@@ -37,10 +37,12 @@ export default {
 .job-list h3 {
   color: #2c3e50;
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .list-group-item {
   border: 1px solid #dee2e6;
+  text-align: center;
 }
 
 .list-group-item a {

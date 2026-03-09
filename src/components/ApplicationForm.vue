@@ -24,7 +24,7 @@
           
           <div class="col-md-6">
             <label for="lastName" class="form-label">Last Name:</label>
-            <input
+            <input 
               type="text" 
               class="form-control" 
               :class="{ 'is-invalid': errors.lastName }"
